@@ -1,8 +1,8 @@
 # README
 
-This repository maintains the classification of my starred repositories.
+This repository maintains my starred repositories.
 
-Total: 454 till 17.12.19.
+Author: Wasdns, Version: 17.12.19
 
 # I.SDN and NFV
 
@@ -537,5 +537,3 @@ Courses:
 # XI.Others
 
 - Chaos: https://github.com/Chaosthebot/Chaos
-
-Author: Wasdns, Version: 17.12.19
