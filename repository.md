@@ -424,6 +424,7 @@ Courses:
 - slr1.py: https://github.com/franleplant/slr1.py
 - pyLR1: https://github.com/sebastianriese/pyLR1
 - pishc: https://github.com/Bananattack/pishc
+- flex-bison-example: https://github.com/meyerd/flex-bison-example
 
 # Frontend and Backend
 
