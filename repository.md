@@ -65,6 +65,7 @@
 - NFVO: https://github.com/openbaton/NFVO
 - openmano: https://github.com/nfvlabs/openmano
 - iOAM: https://github.com/CiscoDevNet/iOAM
+- susanow: https://github.com/susanow/susanow
 
 ## Language
 
@@ -189,8 +190,9 @@
 - Topology-Builder: https://github.com/nabsyed/Topology-Builder
 - opendc: https://github.com/atlarge-research/opendc
 - mini-ndn: https://github.com/named-data/mini-ndn
+- mininet-wifi: https://github.com/intrig-unicamp/mininet-wifi
 
-## Packet Generator/Filter
+## Packet Generator/Filter, Performance Measurement
 
 - iperf: https://github.com/esnet/iperf
 - libpcap: https://github.com/the-tcpdump-group/libpcap
@@ -207,6 +209,8 @@
 - dpdk-iperf: https://github.com/ansyun/dpdk-iperf
 - netperf: https://github.com/HewlettPackard/netperf
 - httperf: https://github.com/httperf/httperf
+- grav: https://github.com/epickrram/grav
+- Linux_tracing_scripts: https://github.com/LucaCanali/Linux_tracing_scripts
 
 ## FPGA and Pi
 
@@ -515,6 +519,7 @@ Courses:
 - pyro: https://github.com/uber/pyro
 - RocAlphaGo: https://github.com/Rochester-NRT/RocAlphaGo
 - openalpr: https://github.com/openalpr/openalpr
+- Chatbot: https://github.com/zake7749/Chatbot
 
 # Python
 
