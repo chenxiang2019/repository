@@ -42,6 +42,7 @@
 - sdn-loadbalancing: https://github.com/nayanseth/sdn-loadbalancing
 - packages: https://github.com/openwrt/packages
 - vpp: https://github.com/FDio/vpp
+- gnmi: https://github.com/openconfig/gnmi
 
 ## NFV Orchestration and Framework
 
@@ -66,6 +67,8 @@
 - openmano: https://github.com/nfvlabs/openmano
 - iOAM: https://github.com/CiscoDevNet/iOAM
 - susanow: https://github.com/susanow/susanow
+- ems: https://github.com/openbaton/ems
+- generic-vnfm: https://github.com/openbaton/generic-vnfm
 
 ## Language
 
@@ -329,6 +332,7 @@ Courses:
 - papers-we-love: https://github.com/papers-we-love/papers-we-love
 - course-adv-net: https://github.com/xinjin/course-adv-net
 - HIT-OSLab: https://github.com/hoverwinter/HIT-OSLab
+- Duke-STA-663-CN: https://github.com/Kivy-CN/Duke-STA-663-CN
 
 # RPC
 
