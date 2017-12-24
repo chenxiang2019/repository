@@ -214,6 +214,7 @@
 - httperf: https://github.com/httperf/httperf
 - grav: https://github.com/epickrram/grav
 - Linux_tracing_scripts: https://github.com/LucaCanali/Linux_tracing_scripts
+- MiniNAM: https://github.com/uccmisl/MiniNAM
 
 ## FPGA and Pi
 
