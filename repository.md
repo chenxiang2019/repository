@@ -434,6 +434,10 @@ Courses:
 - pyLR1: https://github.com/sebastianriese/pyLR1
 - pishc: https://github.com/Bananattack/pishc
 - flex-bison-example: https://github.com/meyerd/flex-bison-example
+- simple_wc_example: https://github.com/jonathan-beard/simple_wc_example
+- flex-bison-cpp-example: https://github.com/bingmann/flex-bison-cpp-example
+- sql-parser: https://github.com/soforth/sql-parser
+- Bison-Flex-CPP-template: https://github.com/remusao/Bison-Flex-CPP-template
 
 # Frontend and Backend
 
