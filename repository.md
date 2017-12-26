@@ -185,6 +185,7 @@
 - lagopus: https://github.com/lagopus/lagopus
 - packet-journey: https://github.com/Gandi/packet-journey
 - ofsoftswitch13: https://github.com/CPqD/ofsoftswitch13
+- sonic-quagga: https://github.com/Azure/sonic-quagga
 
 ## Simulator
 
@@ -326,6 +327,9 @@ Algorithm:
 - go-datastructures: https://github.com/Workiva/go-datastructures
 - cordbuild2017: https://github.com/ngiccorddemo/cordbuild2017
 - DataMiningAlgorithm: https://github.com/linyiqun/DataMiningAlgorithm
+- Directed-Acyclic-Graph-with-Topological-Sort: https://github.com/abhirishi7/Directed-Acyclic-Graph-with-Topological-Sort
+- Python-LCS: https://github.com/man1/Python-LCS
+- topological-sorting: https://github.com/jweg/topological-sorting
 
 Courses:
 - cs168fall17_student: https://github.com/NetSys/cs168fall17_student
@@ -416,6 +420,7 @@ Courses:
 - parsing-techniques: https://github.com/duguying/parsing-techniques
 - Datastructures-and-Algorithms-notes: https://github.com/SteliosTymvios/Datastructures-and-Algorithms-notes
 - how-to-write-makefile: https://github.com/seisman/how-to-write-makefile
+- docker_practice: https://github.com/yeasy/docker_practice
 
 # Compiler Principles
 
@@ -438,6 +443,7 @@ Courses:
 - flex-bison-cpp-example: https://github.com/bingmann/flex-bison-cpp-example
 - sql-parser: https://github.com/soforth/sql-parser
 - Bison-Flex-CPP-template: https://github.com/remusao/Bison-Flex-CPP-template
+- CMMInterpreter: https://github.com/hukun01/CMMInterpreter
 
 # Frontend and Backend
 
@@ -498,6 +504,7 @@ Courses:
 - sphinx: https://github.com/sphinx-doc/sphinx
 - mac-dev-setup: https://github.com/nicolashery/mac-dev-setup
 - shadowsocks-qt5: https://github.com/shadowsocks/shadowsocks-qt5
+- github-profile-summary: https://github.com/tipsy/github-profile-summary
 
 # Plotting and Writing
 
@@ -547,6 +554,7 @@ Courses:
 - pytricia: https://github.com/jsommers/pytricia
 - pycfg: https://github.com/bdusell/pycfg
 - cpython: https://github.com/python/cpython
+- pandas: https://github.com/pandas-dev/pandas
 
 # Others
 
