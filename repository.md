@@ -195,6 +195,7 @@
 - opendc: https://github.com/atlarge-research/opendc
 - mini-ndn: https://github.com/named-data/mini-ndn
 - mininet-wifi: https://github.com/intrig-unicamp/mininet-wifi
+- ns3-load-balance: https://github.com/snowzjx/ns3-load-balance
 
 ## Packet Generator/Filter, Performance Measurement
 
@@ -216,6 +217,7 @@
 - grav: https://github.com/epickrram/grav
 - Linux_tracing_scripts: https://github.com/LucaCanali/Linux_tracing_scripts
 - MiniNAM: https://github.com/uccmisl/MiniNAM
+- FlowSim: https://github.com/li-ch/FlowSim
 
 ## FPGA and Pi
 
@@ -313,6 +315,11 @@ Network:
 - Tinyhttpd: https://github.com/EZLippi/Tinyhttpd
 - libevent: https://github.com/libevent/libevent
 - mtcp: https://github.com/eunyoung14/mtcp
+- crc32: https://github.com/theonlypwner/crc32
+- crc32: https://github.com/klauspost/crc32
+- misc: https://github.com/StalkR/misc
+- ipaddr-py: https://github.com/google/ipaddr-py
+- frr: https://github.com/FRRouting/frr
 
 Algorithm:
 - YenKSP: https://github.com/Pent00/YenKSP
@@ -338,6 +345,7 @@ Courses:
 - course-adv-net: https://github.com/xinjin/course-adv-net
 - HIT-OSLab: https://github.com/hoverwinter/HIT-OSLab
 - Duke-STA-663-CN: https://github.com/Kivy-CN/Duke-STA-663-CN
+- Topics-in-Networks: https://github.com/harshil93/Topics-in-Networks
 
 # RPC
 
@@ -555,6 +563,7 @@ Courses:
 - pycfg: https://github.com/bdusell/pycfg
 - cpython: https://github.com/python/cpython
 - pandas: https://github.com/pandas-dev/pandas
+- ipaddr-py: https://github.com/google/ipaddr-py
 
 # Others
 
