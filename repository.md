@@ -14,7 +14,7 @@
 - Supervisor: https://github.com/Emil-501/Supervisor
 - HyperFLEX: https://github.com/tum-lkn/HyperFLEX
 
-## Protocols, Libraries, Applications and Tools
+## Systems, Protocols, Libraries, Applications and Tools
 
 - netconf: https://github.com/opendaylight/netconf
 - of-config: https://github.com/openvswitch/of-config
@@ -43,6 +43,7 @@
 - packages: https://github.com/openwrt/packages
 - vpp: https://github.com/FDio/vpp
 - gnmi: https://github.com/openconfig/gnmi
+- DREAM: https://github.com/USC-NSL/DREAM
 
 ## NFV Orchestration and Framework
 
@@ -138,6 +139,7 @@
 - MultiSwitch: https://github.com/multip4/MultiSwitch
 - p4sandbox: https://github.com/ebiken/p4sandbox
 - p4lang.github.io: https://github.com/p4lang/p4lang.github.io
+- FlowRadar-P4: https://github.com/USC-NSL/FlowRadar-P4
 
 ### Other Languages
 
@@ -196,6 +198,7 @@
 - mini-ndn: https://github.com/named-data/mini-ndn
 - mininet-wifi: https://github.com/intrig-unicamp/mininet-wifi
 - ns3-load-balance: https://github.com/snowzjx/ns3-load-balance
+- miniNExT: https://github.com/USC-NSL/miniNExT
 
 ## Packet Generator/Filter, Performance Measurement
 
@@ -218,6 +221,8 @@
 - Linux_tracing_scripts: https://github.com/LucaCanali/Linux_tracing_scripts
 - MiniNAM: https://github.com/uccmisl/MiniNAM
 - FlowSim: https://github.com/li-ch/FlowSim
+- FlowScope: https://github.com/emmericp/FlowScope
+- empirical-traffic-gen: https://github.com/datacenter/empirical-traffic-gen
 
 ## FPGA and Pi
 
@@ -239,6 +244,13 @@
 - neutron: https://github.com/openstack/neutron
 - networking-ovs-dpdk: https://github.com/openstack/networking-ovs-dpdk
 - AzurePublicDataset: https://github.com/Azure/AzurePublicDataset
+
+## Data Center
+
+- Trumpet: https://github.com/USC-NSL/Trumpet
+- DCTCP-Linux: https://github.com/myasuda/DCTCP-Linux
+- CP: https://github.com/cp5555/CP
+- eyeq: https://github.com/jvimal/eyeq
 
 ## Testing Frameworks
 
