@@ -140,6 +140,7 @@
 - p4sandbox: https://github.com/ebiken/p4sandbox
 - p4lang.github.io: https://github.com/p4lang/p4lang.github.io
 - FlowRadar-P4: https://github.com/USC-NSL/FlowRadar-P4
+- DAMIT: https://github.com/kboutarel/DAMIT
 
 ### Other Languages
 
@@ -238,12 +239,13 @@
 - aws-fpga: https://github.com/aws/aws-fpga
 - SecPi: https://github.com/SecPi/SecPi
 
-## Cloud and OpenStack
+## Cloud, Docker and OpenStack
 
 - easyOVS: https://github.com/yeasy/easyOVS
 - neutron: https://github.com/openstack/neutron
 - networking-ovs-dpdk: https://github.com/openstack/networking-ovs-dpdk
 - AzurePublicDataset: https://github.com/Azure/AzurePublicDataset
+- kubespray: https://github.com/kubernetes-incubator/kubespray
 
 ## Data Center
 
