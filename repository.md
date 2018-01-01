@@ -582,3 +582,4 @@ Courses:
 # Others
 
 - Chaos: https://github.com/Chaosthebot/Chaos
+- twemoji: https://github.com/twitter/twemoji
