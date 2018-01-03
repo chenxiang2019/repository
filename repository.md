@@ -294,6 +294,7 @@ System:
 - lightvm: https://github.com/sysml/lightvm
 - hv6: https://github.com/locore/hv6
 - simplefs: https://github.com/psankar/simplefs
+- sysrepo: https://github.com/sysrepo/sysrepo
 
 DB:
 - ForgiveDB: https://github.com/hui-z/ForgiveDB
@@ -360,6 +361,7 @@ Courses:
 - HIT-OSLab: https://github.com/hoverwinter/HIT-OSLab
 - Duke-STA-663-CN: https://github.com/Kivy-CN/Duke-STA-663-CN
 - Topics-in-Networks: https://github.com/harshil93/Topics-in-Networks
+- computer-science: https://github.com/ossu/computer-science
 
 # RPC
 
@@ -527,6 +529,8 @@ Courses:
 - mac-dev-setup: https://github.com/nicolashery/mac-dev-setup
 - shadowsocks-qt5: https://github.com/shadowsocks/shadowsocks-qt5
 - github-profile-summary: https://github.com/tipsy/github-profile-summary
+- go-rjsocks: https://github.com/tr3ee/go-rjsocks
+- mac-setup: https://github.com/sb2nov/mac-setup
 
 # Plotting and Writing
 
