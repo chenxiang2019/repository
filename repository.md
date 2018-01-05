@@ -13,6 +13,7 @@
 - OpenVirteX: https://github.com/opennetworkinglab/OpenVirteX
 - Supervisor: https://github.com/Emil-501/Supervisor
 - HyperFLEX: https://github.com/tum-lkn/HyperFLEX
+- networking-odl: https://github.com/openstack/networking-odl
 
 ## Systems, Protocols, Libraries, Applications and Tools
 
@@ -44,6 +45,7 @@
 - vpp: https://github.com/FDio/vpp
 - gnmi: https://github.com/openconfig/gnmi
 - DREAM: https://github.com/USC-NSL/DREAM
+- topotests: https://github.com/FRRouting/topotests
 
 ## NFV Orchestration and Framework
 
@@ -141,6 +143,7 @@
 - p4lang.github.io: https://github.com/p4lang/p4lang.github.io
 - FlowRadar-P4: https://github.com/USC-NSL/FlowRadar-P4
 - DAMIT: https://github.com/kboutarel/DAMIT
+- SAI-P4-BM: https://github.com/Mellanox/SAI-P4-BM
 
 ### Other Languages
 
@@ -189,6 +192,8 @@
 - packet-journey: https://github.com/Gandi/packet-journey
 - ofsoftswitch13: https://github.com/CPqD/ofsoftswitch13
 - sonic-quagga: https://github.com/Azure/sonic-quagga
+- SAI-P4-BM: https://github.com/Mellanox/SAI-P4-BM
+- napalm: https://github.com/napalm-automation/napalm
 
 ## Simulator
 
@@ -238,6 +243,8 @@
 - riscv-semantics: https://github.com/mit-plv/riscv-semantics
 - aws-fpga: https://github.com/aws/aws-fpga
 - SecPi: https://github.com/SecPi/SecPi
+- Super-Simple-Raspberry-Pi-Audio-Receiver-Install: https://github.com/BaReinhard/Super-Simple-Raspberry-Pi-Audio-Receiver-Install
+- 1G_CML_OpenFlow: https://github.com/devKyanon/1G_CML_OpenFlow
 
 ## Cloud, Docker and OpenStack
 
@@ -246,6 +253,11 @@
 - networking-ovs-dpdk: https://github.com/openstack/networking-ovs-dpdk
 - AzurePublicDataset: https://github.com/Azure/AzurePublicDataset
 - kubespray: https://github.com/kubernetes-incubator/kubespray
+- group-based-policy: https://github.com/openstack/group-based-policy
+
+## DPDK
+
+TBD
 
 ## Data Center
 
@@ -294,7 +306,10 @@ System:
 - lightvm: https://github.com/sysml/lightvm
 - hv6: https://github.com/locore/hv6
 - simplefs: https://github.com/psankar/simplefs
-- sysrepo: https://github.com/sysrepo/sysrepo
+- userspace-rcu: https://github.com/urcu/userspace-rcu
+- rdma-core: https://github.com/linux-rdma/rdma-core
+- HDCS: https://github.com/Intel-bigdata/HDCS
+- goyang: https://github.com/openconfig/goyang
 
 DB:
 - ForgiveDB: https://github.com/hui-z/ForgiveDB
@@ -335,6 +350,12 @@ Network:
 - misc: https://github.com/StalkR/misc
 - ipaddr-py: https://github.com/google/ipaddr-py
 - frr: https://github.com/FRRouting/frr
+- sysrepo: https://github.com/sysrepo/sysrepo
+- vpp: https://github.com/contiv/vpp
+- dpdkcap: https://github.com/dpdkcap/dpdkcap
+- networking-cisco: https://github.com/openstack/networking-cisco
+- Realtime-Traffic-Detection: https://github.com/cnbird1999/Realtime-Traffic-Detection
+- Network-Intrusion-Detection-System: https://github.com/alryco/Network-Intrusion-Detection-System
 
 Algorithm:
 - YenKSP: https://github.com/Pent00/YenKSP
@@ -352,6 +373,7 @@ Algorithm:
 - Directed-Acyclic-Graph-with-Topological-Sort: https://github.com/abhirishi7/Directed-Acyclic-Graph-with-Topological-Sort
 - Python-LCS: https://github.com/man1/Python-LCS
 - topological-sorting: https://github.com/jweg/topological-sorting
+- Data-Structures-and-Algorithms-in-C: https://github.com/LeechanX/Data-Structures-and-Algorithms-in-C
 
 Courses:
 - cs168fall17_student: https://github.com/NetSys/cs168fall17_student
@@ -362,6 +384,9 @@ Courses:
 - Duke-STA-663-CN: https://github.com/Kivy-CN/Duke-STA-663-CN
 - Topics-in-Networks: https://github.com/harshil93/Topics-in-Networks
 - computer-science: https://github.com/ossu/computer-science
+
+Security:
+- Network-Intrusion-Detection-System: https://github.com/alryco/Network-Intrusion-Detection-System
 
 # RPC
 
@@ -445,6 +470,8 @@ Courses:
 - Datastructures-and-Algorithms-notes: https://github.com/SteliosTymvios/Datastructures-and-Algorithms-notes
 - how-to-write-makefile: https://github.com/seisman/how-to-write-makefile
 - docker_practice: https://github.com/yeasy/docker_practice
+- linux-insides-zh: https://github.com/MintCN/linux-insides-zh
+- Learning-SDN: https://github.com/OSE-Lab/Learning-SDN
 
 # Compiler Principles
 
@@ -468,6 +495,9 @@ Courses:
 - sql-parser: https://github.com/soforth/sql-parser
 - Bison-Flex-CPP-template: https://github.com/remusao/Bison-Flex-CPP-template
 - CMMInterpreter: https://github.com/hukun01/CMMInterpreter
+- RE-flex: https://github.com/Genivia/RE-flex
+- flex: https://github.com/westes/flex
+- bnfc: https://github.com/BNFC/bnfc
 
 # Frontend and Backend
 
@@ -489,7 +519,7 @@ Courses:
 - flask-restful-demo: https://github.com/joshfriend/flask-restful-demo
 - dockerizing-django: https://github.com/realpython/dockerizing-django
 
-# Toolkits and Things
+# Toolkits, CLIs and Things
 
 - Tutor-distribution: https://github.com/Tutordistribution/Tutor-distribution
 - Anti-recall: https://github.com/JasonQS/Anti-recall
@@ -531,6 +561,11 @@ Courses:
 - github-profile-summary: https://github.com/tipsy/github-profile-summary
 - go-rjsocks: https://github.com/tr3ee/go-rjsocks
 - mac-setup: https://github.com/sb2nov/mac-setup
+- Cr3dOv3r: https://github.com/D4Vinci/Cr3dOv3r
+- bazel: https://github.com/bazelbuild/bazel
+- serverless: https://github.com/serverless/serverless
+- sentry: https://github.com/getsentry/sentry
+
 
 # Plotting and Writing
 
