@@ -229,6 +229,7 @@
 - FlowSim: https://github.com/li-ch/FlowSim
 - FlowScope: https://github.com/emmericp/FlowScope
 - empirical-traffic-gen: https://github.com/datacenter/empirical-traffic-gen
+- hyperscan: https://github.com/intel/hyperscan
 
 ## FPGA and Pi
 
@@ -245,6 +246,7 @@
 - SecPi: https://github.com/SecPi/SecPi
 - Super-Simple-Raspberry-Pi-Audio-Receiver-Install: https://github.com/BaReinhard/Super-Simple-Raspberry-Pi-Audio-Receiver-Install
 - 1G_CML_OpenFlow: https://github.com/devKyanon/1G_CML_OpenFlow
+- cocotb: https://github.com/potentialventures/cocotb
 
 ## Cloud, Docker and OpenStack
 
@@ -356,6 +358,7 @@ Network:
 - networking-cisco: https://github.com/openstack/networking-cisco
 - Realtime-Traffic-Detection: https://github.com/cnbird1999/Realtime-Traffic-Detection
 - Network-Intrusion-Detection-System: https://github.com/alryco/Network-Intrusion-Detection-System
+- pam_tacplus: https://github.com/jeroennijhof/pam_tacplus
 
 Algorithm:
 - YenKSP: https://github.com/Pent00/YenKSP
@@ -384,6 +387,7 @@ Courses:
 - Duke-STA-663-CN: https://github.com/Kivy-CN/Duke-STA-663-CN
 - Topics-in-Networks: https://github.com/harshil93/Topics-in-Networks
 - computer-science: https://github.com/ossu/computer-science
+- sjtu-se-courseware: https://github.com/sjtu-se-courseware/sjtu-se-courseware
 
 Security:
 - Network-Intrusion-Detection-System: https://github.com/alryco/Network-Intrusion-Detection-System
@@ -565,7 +569,8 @@ Security:
 - bazel: https://github.com/bazelbuild/bazel
 - serverless: https://github.com/serverless/serverless
 - sentry: https://github.com/getsentry/sentry
-
+- interactive-coding-challenges: https://github.com/donnemartin/interactive-coding-challenges
+- Docusaurus: https://github.com/facebook/Docusaurus
 
 # Plotting and Writing
 
@@ -617,6 +622,7 @@ Security:
 - cpython: https://github.com/python/cpython
 - pandas: https://github.com/pandas-dev/pandas
 - ipaddr-py: https://github.com/google/ipaddr-py
+- ctypesgen: https://github.com/davidjamesca/ctypesgen
 
 # Others
 
