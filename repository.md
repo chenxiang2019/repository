@@ -46,6 +46,7 @@
 - gnmi: https://github.com/openconfig/gnmi
 - DREAM: https://github.com/USC-NSL/DREAM
 - topotests: https://github.com/FRRouting/topotests
+- repaudit: https://github.com/ennanzhai/repaudit
 
 ## NFV Orchestration and Framework
 
@@ -360,6 +361,9 @@ Network:
 - Network-Intrusion-Detection-System: https://github.com/alryco/Network-Intrusion-Detection-System
 - pam_tacplus: https://github.com/jeroennijhof/pam_tacplus
 
+IoT:
+- contiki: https://github.com/contiki-os/contiki
+
 Algorithm:
 - YenKSP: https://github.com/Pent00/YenKSP
 - crypto-algorithms: https://github.com/B-Con/crypto-algorithms
@@ -476,6 +480,8 @@ Security:
 - docker_practice: https://github.com/yeasy/docker_practice
 - linux-insides-zh: https://github.com/MintCN/linux-insides-zh
 - Learning-SDN: https://github.com/OSE-Lab/Learning-SDN
+- kubernetes-beginner-course: https://github.com/xuwenbao/kubernetes-beginner-course
+- IPv6-WSN-book: https://github.com/marcozennaro/IPv6-WSN-book
 
 # Compiler Principles
 
@@ -571,6 +577,7 @@ Security:
 - sentry: https://github.com/getsentry/sentry
 - interactive-coding-challenges: https://github.com/donnemartin/interactive-coding-challenges
 - Docusaurus: https://github.com/facebook/Docusaurus
+- ansible: https://github.com/ansible/ansible
 
 # Plotting and Writing
 
