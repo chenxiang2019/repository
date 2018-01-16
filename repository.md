@@ -47,6 +47,7 @@
 - DREAM: https://github.com/USC-NSL/DREAM
 - topotests: https://github.com/FRRouting/topotests
 - repaudit: https://github.com/ennanzhai/repaudit
+- reproducible-research: https://github.com/ramonfontes/reproducible-research
 
 ## NFV Orchestration and Framework
 
@@ -145,6 +146,7 @@
 - FlowRadar-P4: https://github.com/USC-NSL/FlowRadar-P4
 - DAMIT: https://github.com/kboutarel/DAMIT
 - SAI-P4-BM: https://github.com/Mellanox/SAI-P4-BM
+- telemetry: https://github.com/wsx25289/telemetry
 
 ### Other Languages
 
@@ -289,6 +291,7 @@ TBD
 Language:
 - go: https://github.com/golang/go
 - kotlin: https://github.com/JetBrains/kotlin
+- orchestra: https://github.com/jeaye/orchestra
 
 System:
 - linux: https://github.com/torvalds/linux
@@ -395,6 +398,7 @@ Courses:
 
 Security:
 - Network-Intrusion-Detection-System: https://github.com/alryco/Network-Intrusion-Detection-System
+- ROP_STEP_BY_STEP: https://github.com/zhengmin1989/ROP_STEP_BY_STEP
 
 # RPC
 
