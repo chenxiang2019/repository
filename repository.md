@@ -233,6 +233,7 @@
 - FlowScope: https://github.com/emmericp/FlowScope
 - empirical-traffic-gen: https://github.com/datacenter/empirical-traffic-gen
 - hyperscan: https://github.com/intel/hyperscan
+- dpkt: https://github.com/kbandla/dpkt
 
 ## FPGA and Pi
 
@@ -262,7 +263,13 @@
 
 ## DPDK
 
-TBD
+- dpdk-nat: https://github.com/ms-davtalab/dpdk-nat
+- odp-dpdk: https://github.com/lvsgate/odp-dpdk
+- dpdk: https://github.com/DPDK/dpdk
+- dpvs: https://github.com/iqiyi/dpvs
+- PPPoE_using_DPDK: https://github.com/parora1701/PPPoE_using_DPDK
+- dpdk-ans: https://github.com/ansyun/dpdk-ans
+- dpdkcap: https://github.com/dpdkcap/dpdkcap
 
 ## Data Center
 
@@ -316,6 +323,9 @@ System:
 - rdma-core: https://github.com/linux-rdma/rdma-core
 - HDCS: https://github.com/Intel-bigdata/HDCS
 - goyang: https://github.com/openconfig/goyang
+- bytecount: https://github.com/llogiq/bytecount
+- smhasher: https://github.com/aappleby/smhasher
+- highwayhash: https://github.com/google/highwayhash
 
 DB:
 - ForgiveDB: https://github.com/hui-z/ForgiveDB
@@ -327,23 +337,17 @@ Network:
 - nat64: https://github.com/fln/nat64
 - nDPI: https://github.com/ntop/nDPI
 - puppetlabs-firewall: https://github.com/puppetlabs/puppetlabs-firewall
-- dpdk-nat: https://github.com/ms-davtalab/dpdk-nat
 - purifier: https://github.com/medvedv/purifier
 - vignat: https://github.com/vignat/vignat
-- odp-dpdk: https://github.com/lvsgate/odp-dpdk
 - fw: https://github.com/sapo/fw
-- dpdk: https://github.com/DPDK/dpdk
-- dpvs: https://github.com/iqiyi/dpvs
 - VNB-NAT: https://github.com/necto/VNB-NAT
 - routing: https://github.com/opennetworkinglab/routing
 - pytricia: https://github.com/jsommers/pytricia
 - netstack: https://github.com/google/netstack
-- PPPoE_using_DPDK: https://github.com/parora1701/PPPoE_using_DPDK
 - v2ray-core: https://github.com/v2ray/v2ray-core
 - boringssl: https://github.com/google/boringssl
 - jaldimac: https://github.com/shaddi/jaldimac
 - kcptun: https://github.com/xtaci/kcptun
-- dpdk-ans: https://github.com/ansyun/dpdk-ans
 - HElib: https://github.com/shaih/HElib
 - PcapPlusPlus: https://github.com/seladb/PcapPlusPlus
 - pycrumbs: https://github.com/kirang89/pycrumbs
@@ -358,7 +362,6 @@ Network:
 - frr: https://github.com/FRRouting/frr
 - sysrepo: https://github.com/sysrepo/sysrepo
 - vpp: https://github.com/contiv/vpp
-- dpdkcap: https://github.com/dpdkcap/dpdkcap
 - networking-cisco: https://github.com/openstack/networking-cisco
 - Realtime-Traffic-Detection: https://github.com/cnbird1999/Realtime-Traffic-Detection
 - Network-Intrusion-Detection-System: https://github.com/alryco/Network-Intrusion-Detection-System
@@ -366,6 +369,7 @@ Network:
 
 IoT:
 - contiki: https://github.com/contiki-os/contiki
+- azure-iot-sdk-c: https://github.com/Azure/azure-iot-sdk-c
 
 Algorithm:
 - YenKSP: https://github.com/Pent00/YenKSP
@@ -582,6 +586,7 @@ Security:
 - interactive-coding-challenges: https://github.com/donnemartin/interactive-coding-challenges
 - Docusaurus: https://github.com/facebook/Docusaurus
 - ansible: https://github.com/ansible/ansible
+- python-markdown2: https://github.com/trentm/python-markdown2
 
 # Plotting and Writing
 
@@ -594,6 +599,7 @@ Security:
 - acmart: https://github.com/borisveytsman/acmart
 - trifleware: https://github.com/anirudhSK/trifleware
 - notes-on-writing: https://github.com/mnielsen/notes-on-writing
+- moderncv: https://github.com/xdanaux/moderncv
 
 # AI
 
@@ -613,6 +619,7 @@ Security:
 - RocAlphaGo: https://github.com/Rochester-NRT/RocAlphaGo
 - openalpr: https://github.com/openalpr/openalpr
 - Chatbot: https://github.com/zake7749/Chatbot
+- TensorFlow-Examples: https://github.com/aymericdamien/TensorFlow-Examples
 
 # Python
 
