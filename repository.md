@@ -48,6 +48,7 @@
 - topotests: https://github.com/FRRouting/topotests
 - repaudit: https://github.com/ennanzhai/repaudit
 - reproducible-research: https://github.com/ramonfontes/reproducible-research
+- iSDX: https://github.com/sdn-ixp/iSDX
 
 ## NFV Orchestration and Framework
 
@@ -155,6 +156,7 @@
 - pyretic: https://github.com/frenetic-lang/pyretic
 - netkat: https://github.com/frenetic-lang/netkat
 - marple: https://github.com/performance-queries/marple
+- pyresonance: https://github.com/Resonance-SDN/pyresonance
 
 ## Switch, Router, SDKs and Architectures
 
@@ -399,6 +401,7 @@ Courses:
 - Topics-in-Networks: https://github.com/harshil93/Topics-in-Networks
 - computer-science: https://github.com/ossu/computer-science
 - sjtu-se-courseware: https://github.com/sjtu-se-courseware/sjtu-se-courseware
+- Coursera-SDN: https://github.com/PrincetonUniversity/Coursera-SDN
 
 Security:
 - Network-Intrusion-Detection-System: https://github.com/alryco/Network-Intrusion-Detection-System
