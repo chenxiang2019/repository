@@ -236,6 +236,7 @@
 - empirical-traffic-gen: https://github.com/datacenter/empirical-traffic-gen
 - hyperscan: https://github.com/intel/hyperscan
 - dpkt: https://github.com/kbandla/dpkt
+- ovs_perf: https://github.com/chaudron/ovs_perf
 
 ## FPGA and Pi
 
@@ -373,6 +374,9 @@ IoT:
 - contiki: https://github.com/contiki-os/contiki
 - azure-iot-sdk-c: https://github.com/Azure/azure-iot-sdk-c
 
+5G:
+- nextepc: https://github.com/acetcom/nextepc
+
 Algorithm:
 - YenKSP: https://github.com/Pent00/YenKSP
 - crypto-algorithms: https://github.com/B-Con/crypto-algorithms
@@ -493,6 +497,8 @@ Security:
 - Learning-SDN: https://github.com/OSE-Lab/Learning-SDN
 - kubernetes-beginner-course: https://github.com/xuwenbao/kubernetes-beginner-course
 - IPv6-WSN-book: https://github.com/marcozennaro/IPv6-WSN-book
+- opensource: https://github.com/programthink/opensource
+- awesome-spider: https://github.com/facert/awesome-spider
 
 # Compiler Principles
 
