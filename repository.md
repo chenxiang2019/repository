@@ -14,6 +14,7 @@
 - Supervisor: https://github.com/Emil-501/Supervisor
 - HyperFLEX: https://github.com/tum-lkn/HyperFLEX
 - networking-odl: https://github.com/openstack/networking-odl
+- ryu: https://github.com/muzixing/ryu
 
 ## Systems, Protocols, Libraries, Applications and Tools
 
@@ -50,7 +51,7 @@
 - reproducible-research: https://github.com/ramonfontes/reproducible-research
 - iSDX: https://github.com/sdn-ixp/iSDX
 
-## NFV Orchestration and Framework
+## NFV Orchestration, Framework and Applications
 
 - NFV-Orchestration: https://github.com/mtill/NFV-Orchestration
 - mOS-networking-stack: https://github.com/ndsl-kaist/mOS-networking-stack
@@ -75,6 +76,7 @@
 - susanow: https://github.com/susanow/susanow
 - ems: https://github.com/openbaton/ems
 - generic-vnfm: https://github.com/openbaton/generic-vnfm
+- onvm-snort: https://github.com/sdnfv/onvm-snort
 
 ## Language
 
@@ -148,6 +150,8 @@
 - DAMIT: https://github.com/kboutarel/DAMIT
 - SAI-P4-BM: https://github.com/Mellanox/SAI-P4-BM
 - telemetry: https://github.com/wsx25289/telemetry
+- P4-Play: https://github.com/kevinbird61/P4-Play
+- P4-practices: https://github.com/extend1994/P4-practices
 
 ### Other Languages
 
@@ -199,6 +203,8 @@
 - sonic-quagga: https://github.com/Azure/sonic-quagga
 - SAI-P4-BM: https://github.com/Mellanox/SAI-P4-BM
 - napalm: https://github.com/napalm-automation/napalm
+- SDKLT: https://github.com/Broadcom-Network-Switching-Software/SDKLT
+- fboss: https://github.com/facebook/fboss
 
 ## Simulator
 
@@ -210,6 +216,8 @@
 - mininet-wifi: https://github.com/intrig-unicamp/mininet-wifi
 - ns3-load-balance: https://github.com/snowzjx/ns3-load-balance
 - miniNExT: https://github.com/USC-NSL/miniNExT
+- ns-3-dce: https://github.com/direct-code-execution/ns-3-dce
+- minicps: https://github.com/scy-phy/minicps
 
 ## Packet Generator/Filter, Performance Measurement
 
@@ -237,6 +245,8 @@
 - hyperscan: https://github.com/intel/hyperscan
 - dpkt: https://github.com/kbandla/dpkt
 - ovs_perf: https://github.com/chaudron/ovs_perf
+- mahimahi: https://github.com/ravinet/mahimahi
+- warp17: https://github.com/Juniper/warp17
 
 ## FPGA and Pi
 
@@ -263,6 +273,7 @@
 - AzurePublicDataset: https://github.com/Azure/AzurePublicDataset
 - kubespray: https://github.com/kubernetes-incubator/kubespray
 - group-based-policy: https://github.com/openstack/group-based-policy
+- networking-ovn: https://github.com/openstack/networking-ovn
 
 ## DPDK
 
@@ -273,6 +284,9 @@
 - PPPoE_using_DPDK: https://github.com/parora1701/PPPoE_using_DPDK
 - dpdk-ans: https://github.com/ansyun/dpdk-ans
 - dpdkcap: https://github.com/dpdkcap/dpdkcap
+- flowatcher: https://github.com/quiqfield/flowatcher
+- OVDK-QoS: https://github.com/YBorn/OVDK-QoS
+- ovs-dpdk-scripts: https://github.com/sugchand/ovs-dpdk-scripts
 
 ## Data Center
 
@@ -329,9 +343,12 @@ System:
 - bytecount: https://github.com/llogiq/bytecount
 - smhasher: https://github.com/aappleby/smhasher
 - highwayhash: https://github.com/google/highwayhash
+- tailbench: https://github.com/chyyuu/tailbench
+- multidplyr: https://github.com/hadley/multidplyr
 
 DB:
 - ForgiveDB: https://github.com/hui-z/ForgiveDB
+- ClickHouse: https://github.com/yandex/ClickHouse
 
 Network:
 - yabgp: https://github.com/smartbgp/yabgp
@@ -369,6 +386,10 @@ Network:
 - Realtime-Traffic-Detection: https://github.com/cnbird1999/Realtime-Traffic-Detection
 - Network-Intrusion-Detection-System: https://github.com/alryco/Network-Intrusion-Detection-System
 - pam_tacplus: https://github.com/jeroennijhof/pam_tacplus
+- pantheon: https://github.com/StanfordSNR/pantheon
+- packet_life: https://github.com/manishjangid/packet_life
+- libtrace: https://github.com/LibtraceTeam/libtrace
+- ndns: https://github.com/named-data/ndns
 
 IoT:
 - contiki: https://github.com/contiki-os/contiki
@@ -394,6 +415,8 @@ Algorithm:
 - Python-LCS: https://github.com/man1/Python-LCS
 - topological-sorting: https://github.com/jweg/topological-sorting
 - Data-Structures-and-Algorithms-in-C: https://github.com/LeechanX/Data-Structures-and-Algorithms-in-C
+- leetcode: https://github.com/soulmachine/leetcode
+- Algorithms-Learning-With-Go: https://github.com/ningskyer/Algorithms-Learning-With-Go
 
 Courses:
 - cs168fall17_student: https://github.com/NetSys/cs168fall17_student
@@ -406,10 +429,13 @@ Courses:
 - computer-science: https://github.com/ossu/computer-science
 - sjtu-se-courseware: https://github.com/sjtu-se-courseware/sjtu-se-courseware
 - Coursera-SDN: https://github.com/PrincetonUniversity/Coursera-SDN
+- ucore_os_lab: https://github.com/chyyuu/ucore_os_lab
+- os_course_info: https://github.com/chyyuu/os_course_info
 
 Security:
 - Network-Intrusion-Detection-System: https://github.com/alryco/Network-Intrusion-Detection-System
 - ROP_STEP_BY_STEP: https://github.com/zhengmin1989/ROP_STEP_BY_STEP
+- python_sec: https://github.com/bit4woo/python_sec
 
 # RPC
 
@@ -499,6 +525,8 @@ Security:
 - IPv6-WSN-book: https://github.com/marcozennaro/IPv6-WSN-book
 - opensource: https://github.com/programthink/opensource
 - awesome-spider: https://github.com/facert/awesome-spider
+- awesome-scalability: https://github.com/binhnguyennus/awesome-scalability
+- Hunter: https://github.com/lietoumai/Hunter
 
 # Compiler Principles
 
@@ -525,6 +553,8 @@ Security:
 - RE-flex: https://github.com/Genivia/RE-flex
 - flex: https://github.com/westes/flex
 - bnfc: https://github.com/BNFC/bnfc
+- first-follow: https://github.com/ojss/first-follow
+- getFirstAndFollowGather: https://github.com/Cherny/getFirstAndFollowGather
 
 # Frontend and Backend
 
@@ -596,6 +626,9 @@ Security:
 - Docusaurus: https://github.com/facebook/Docusaurus
 - ansible: https://github.com/ansible/ansible
 - python-markdown2: https://github.com/trentm/python-markdown2
+- re2: https://github.com/google/re2
+- ColorEchoForShell: https://github.com/PeterDaveHello/ColorEchoForShell
+- grv: https://github.com/rgburke/grv
 
 # Plotting and Writing
 
