@@ -15,6 +15,9 @@
 - HyperFLEX: https://github.com/tum-lkn/HyperFLEX
 - networking-odl: https://github.com/openstack/networking-odl
 - ryu: https://github.com/muzixing/ryu
+- faucet: https://github.com/faucetsdn/faucet
+- gofc: https://github.com/Kmotiko/gofc
+- multipath-sdn-controller: https://github.com/dariobanfi/multipath-sdn-controller
 
 ## Systems, Protocols, Libraries, Applications and Tools
 
@@ -50,6 +53,7 @@
 - repaudit: https://github.com/ennanzhai/repaudit
 - reproducible-research: https://github.com/ramonfontes/reproducible-research
 - iSDX: https://github.com/sdn-ixp/iSDX
+- DELTA: https://github.com/OpenNetworkingFoundation/DELTA
 
 ## NFV Orchestration, Framework and Applications
 
@@ -152,6 +156,11 @@
 - telemetry: https://github.com/wsx25289/telemetry
 - P4-Play: https://github.com/kevinbird61/P4-Play
 - P4-practices: https://github.com/extend1994/P4-practices
+- SONATA-DEV: https://github.com/Sonata-Princeton/SONATA-DEV
+- sonata-queries: https://github.com/sonata-queries/sonata-queries
+- spgw.p4: https://github.com/ccascone/spgw.p4
+- ietf: https://github.com/inband-oam/ietf
+- LossRadar-P4: https://github.com/liyuliang001/LossRadar-P4
 
 ### Other Languages
 
@@ -205,6 +214,10 @@
 - napalm: https://github.com/napalm-automation/napalm
 - SDKLT: https://github.com/Broadcom-Network-Switching-Software/SDKLT
 - fboss: https://github.com/facebook/fboss
+- contrail-vrouter: https://github.com/Juniper/contrail-vrouter
+- dragonflow: https://github.com/openstack/dragonflow
+- SAI: https://github.com/Broadcom-Switch/SAI
+- MediaSDK: https://github.com/Intel-Media-SDK/MediaSDK
 
 ## Simulator
 
@@ -218,6 +231,10 @@
 - miniNExT: https://github.com/USC-NSL/miniNExT
 - ns-3-dce: https://github.com/direct-code-execution/ns-3-dce
 - minicps: https://github.com/scy-phy/minicps
+- MaxiNet: https://github.com/MaxiNet/MaxiNet
+- kytos: https://github.com/kytos/kytos
+- OpenNet: https://github.com/dlinknctu/OpenNet
+- fnss: https://github.com/fnss/fnss
 
 ## Packet Generator/Filter, Performance Measurement
 
@@ -264,6 +281,7 @@
 - Super-Simple-Raspberry-Pi-Audio-Receiver-Install: https://github.com/BaReinhard/Super-Simple-Raspberry-Pi-Audio-Receiver-Install
 - 1G_CML_OpenFlow: https://github.com/devKyanon/1G_CML_OpenFlow
 - cocotb: https://github.com/potentialventures/cocotb
+- connectal: https://github.com/cambridgehackers/connectal
 
 ## Cloud, Docker and OpenStack
 
@@ -287,6 +305,8 @@
 - flowatcher: https://github.com/quiqfield/flowatcher
 - OVDK-QoS: https://github.com/YBorn/OVDK-QoS
 - ovs-dpdk-scripts: https://github.com/sugchand/ovs-dpdk-scripts
+- jupiter: https://github.com/tiglabs/jupiter
+- odp-dpdk: https://github.com/Linaro/odp-dpdk
 
 ## Data Center
 
@@ -316,6 +336,8 @@ Language:
 - go: https://github.com/golang/go
 - kotlin: https://github.com/JetBrains/kotlin
 - orchestra: https://github.com/jeaye/orchestra
+- rust: https://github.com/rust-lang/rust
+- modern-cpp-features: https://github.com/AnthonyCalandra/modern-cpp-features
 
 System:
 - linux: https://github.com/torvalds/linux
@@ -345,6 +367,13 @@ System:
 - highwayhash: https://github.com/google/highwayhash
 - tailbench: https://github.com/chyyuu/tailbench
 - multidplyr: https://github.com/hadley/multidplyr
+- rdma_bench: https://github.com/efficient/rdma_bench
+- libvma: https://github.com/Mellanox/libvma
+- sockperf: https://github.com/Mellanox/sockperf
+- cpu_features: https://github.com/google/cpu_features
+- pikoRT: https://github.com/PikoRT/pikoRT
+- blog_os: https://github.com/phil-opp/blog_os
+- pdfs: https://github.com/tpn/pdfs
 
 DB:
 - ForgiveDB: https://github.com/hui-z/ForgiveDB
@@ -390,10 +419,15 @@ Network:
 - packet_life: https://github.com/manishjangid/packet_life
 - libtrace: https://github.com/LibtraceTeam/libtrace
 - ndns: https://github.com/named-data/ndns
+- gopt: https://github.com/efficient/gopt
+- butterfly: https://github.com/outscale/butterfly
+- iPerfer: https://github.com/hahazyb201/iPerfer
+- tcp_server: https://github.com/firstrow/tcp_server
 
 IoT:
 - contiki: https://github.com/contiki-os/contiki
 - azure-iot-sdk-c: https://github.com/Azure/azure-iot-sdk-c
+- AliOS-Things: https://github.com/alibaba/AliOS-Things
 
 5G:
 - nextepc: https://github.com/acetcom/nextepc
@@ -431,6 +465,9 @@ Courses:
 - Coursera-SDN: https://github.com/PrincetonUniversity/Coursera-SDN
 - ucore_os_lab: https://github.com/chyyuu/ucore_os_lab
 - os_course_info: https://github.com/chyyuu/os_course_info
+- SystemProgramming: https://github.com/angrave/SystemProgramming
+- os_course_exercises: https://github.com/chyyuu/os_course_exercises
+- course-net: https://github.com/xinjin/course-net
 
 Security:
 - Network-Intrusion-Detection-System: https://github.com/alryco/Network-Intrusion-Detection-System
@@ -527,6 +564,15 @@ Security:
 - awesome-spider: https://github.com/facert/awesome-spider
 - awesome-scalability: https://github.com/binhnguyennus/awesome-scalability
 - Hunter: https://github.com/lietoumai/Hunter
+- json-tutorial: https://github.com/miloyip/json-tutorial
+- Markdown-Syntax-CN: https://github.com/riku/Markdown-Syntax-CN
+- awesome-maintainers: https://github.com/nayafia/awesome-maintainers
+- follow-me-install-kubernetes-cluster: https://github.com/opsnull/follow-me-install-kubernetes-cluster
+- python3_with_pleasure: https://github.com/arogozhnikov/python3_with_pleasure
+- Mind-Map: https://github.com/phith0n/Mind-Map
+- stanford-tensorflow-tutorials: https://github.com/chiphuyen/stanford-tensorflow-tutorials
+- what-happens-when-zh_CN: https://github.com/skyline75489/what-happens-when-zh_CN
+- what-happens-when: https://github.com/alex/what-happens-when
 
 # Compiler Principles
 
@@ -575,6 +621,7 @@ Security:
 - hugo: https://github.com/gohugoio/hugo
 - flask-restful-demo: https://github.com/joshfriend/flask-restful-demo
 - dockerizing-django: https://github.com/realpython/dockerizing-django
+- beego: https://github.com/astaxie/beego
 
 # Toolkits, CLIs and Things
 
@@ -629,6 +676,8 @@ Security:
 - re2: https://github.com/google/re2
 - ColorEchoForShell: https://github.com/PeterDaveHello/ColorEchoForShell
 - grv: https://github.com/rgburke/grv
+- homebrew-caskformula: https://github.com/caskformula/homebrew-caskformula
+- oh-my-bash: https://github.com/ohmybash/oh-my-bash
 
 # Plotting and Writing
 
@@ -642,6 +691,8 @@ Security:
 - trifleware: https://github.com/anirudhSK/trifleware
 - notes-on-writing: https://github.com/mnielsen/notes-on-writing
 - moderncv: https://github.com/xdanaux/moderncv
+- resume: https://github.com/billryan/resume
+- brokenaxes: https://github.com/bendichter/brokenaxes
 
 # AI
 
@@ -688,3 +739,4 @@ Security:
 
 - Chaos: https://github.com/Chaosthebot/Chaos
 - twemoji: https://github.com/twitter/twemoji
+- chinese-poetry: https://github.com/chinese-poetry/chinese-poetry
